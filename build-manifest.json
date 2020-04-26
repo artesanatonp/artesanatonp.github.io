@@ -1,0 +1,93 @@
+{
+  "devFiles": [],
+  "lowPriorityFiles": [
+    "static/dUmrgnRL_EEwGmrXL3xQ9/_buildManifest.js",
+    "static/dUmrgnRL_EEwGmrXL3xQ9/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/chunks/c174b52fcb3332a30148c9df4ff32796b4a7d368.82b7337d85f15f4914bd.js",
+      "static/chunks/fbf3de85fee4c376bf65e8438849b7a5ba6be87e.986bc02fc6373391331d.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/chunks/c174b52fcb3332a30148c9df4ff32796b4a7d368.82b7337d85f15f4914bd.js",
+      "static/chunks/fbf3de85fee4c376bf65e8438849b7a5ba6be87e.986bc02fc6373391331d.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-3b7a02793888ba57c01d.js"
+    ],
+    "/area-cliente": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ],
+    "/area-cliente/alterar-senha": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ],
+    "/area-cliente/dados": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ],
+    "/area-cliente/pedido/[pedido]": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ],
+    "/carrinho": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ],
+    "/categoria/[categoria]": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ],
+    "/checkout": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/chunks/c174b52fcb3332a30148c9df4ff32796b4a7d368.82b7337d85f15f4914bd.js",
+      "static/chunks/fbf3de85fee4c376bf65e8438849b7a5ba6be87e.986bc02fc6373391331d.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ],
+    "/pesquisa": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ],
+    "/produto/[produto]": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ],
+    "/sobre": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ],
+    "/sucesso": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.934881a8a2d3672acc22.js",
+      "static/runtime/main-e32fa073e899dfaa3b61.js"
+    ]
+  }
+}

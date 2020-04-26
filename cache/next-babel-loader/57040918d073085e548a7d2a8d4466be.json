@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { AUTENTICAR_TOKEN } from '../types';\nexport const reauthenticate = token => ({\n  type: AUTENTICAR_TOKEN,\n  payload: token\n});\nexport default {\n  reauthenticate\n};","map":null,"metadata":{},"sourceType":"module"}
