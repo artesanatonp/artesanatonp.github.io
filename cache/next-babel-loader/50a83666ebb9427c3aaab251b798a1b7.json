@@ -1,1 +1,0 @@
-{"ast":null,"code":"import { combineReducers } from 'redux';\nimport authReducer from './authReducers';\nexport default combineReducers({\n  auth: authReducer\n});","map":null,"metadata":{},"sourceType":"module"}
