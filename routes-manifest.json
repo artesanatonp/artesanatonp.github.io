@@ -1,1 +1,0 @@
-{"version":1,"pages404":true,"basePath":"","redirects":[],"rewrites":[],"headers":[],"dynamicRoutes":[{"page":"/area-cliente/pedido/[pedido]","regex":"^\\/area\\-cliente\\/pedido\\/([^\\/]+?)(?:\\/)?$"},{"page":"/categoria/[categoria]","regex":"^\\/categoria\\/([^\\/]+?)(?:\\/)?$"},{"page":"/produto/[produto]","regex":"^\\/produto\\/([^\\/]+?)(?:\\/)?$"}]}
